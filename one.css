@@ -1,0 +1,57 @@
+body{
+
+background-color:lightblue;
+text-align: center;
+
+}
+h1 {
+    color: blue;
+    font-size: 24px;
+
+}
+
+p {
+    font-family: Arial, sans-serif;
+    line-height: 1.5;
+    width: 50%;
+
+}
+
+pre {
+    width: 350;
+    height: 350;
+    background: lightgray;
+    padding: 25px 20px 25px 20px;
+    border: 6px solid black;
+    margin: 2%;
+
+}
+
+blockquote {
+    margin: 0;
+    padding: 10px;
+    border-left: 1px solid #fc26003d;
+    width: 50%;
+}
+
+
+ul, ol {
+    margin-left: 20px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+   
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+table, th, td {
+    border: 1px solid black;
+    padding: 5px;
+}
+
